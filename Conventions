@@ -1,0 +1,10 @@
+Conventions:
+1. variable name: all variable names wii be all lowercase, if you want to add another word to your variable name,
+                  add an underscore _ and then the other word.
+                  Example: dan_buganim
+                  
+2. functions name: the same as variable name
+
+3. class name: all class names should start with uppercase and all class names should have only one word in it
+
+4. commenting: every sections of your code must be commented in order to make everyone's life easier.
